@@ -1,0 +1,22 @@
+{
+  "name": "views-and-routes",
+  "version": "1.0.0",
+  "description": "Practice with views and routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thleigh/views-and-routes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thleigh/views-and-routes/issues"
+  },
+  "homepage": "https://github.com/thleigh/views-and-routes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

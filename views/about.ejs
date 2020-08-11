@@ -12,6 +12,14 @@
         <ul>Ethnicity: Korean</ul>
         <ul>Allergies: none</ul>
         <ul>Height: 6'2"</ul>
+
+        <ul><%= fave[0]%></ul>
+        <ul><%= fave[1]%></ul>
+        <ul><%= fave[2]%></ul>
+
+        <% fave.forEach((f)=>{ %>
+            <li><%= f %></li>
+        <% }) %>
     </div>
 
 </body>
